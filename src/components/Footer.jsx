@@ -17,9 +17,10 @@ const Footer = () => {
           <a href="https://instagram.com/" target={"blank"}>
             Instagram
           </a>
-          <a href="https://github.com/sajidMannikeri" target={"blank"}>
+          <a href="https://github.com/abarnaasuren" target={"blank"}>
             Github
           </a>
+          //https://tech-landing-page-puce.vercel.app/
         </div>
       </div>
     </footer>
